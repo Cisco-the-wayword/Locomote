@@ -36,5 +36,6 @@ function first() {
   console.log("This is my second function");
 }
 first();
+
 console.log(typeof first)
 console.log(typeof first)
