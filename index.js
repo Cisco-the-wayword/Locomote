@@ -37,6 +37,5 @@ function first() {
 }
 first();
 Notification
-
 console.log(typeof first)
 console.log(typeof first)
